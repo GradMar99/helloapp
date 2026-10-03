@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/egor/git-actually/helloapp-black/helloapp-black.csproj",
+      "projectUniqueName": "/Users/egor/git-actually/helloapp-white/helloapp-black.csproj",
       "projectName": "helloapp-black",
-      "projectPath": "/Users/egor/git-actually/helloapp-black/helloapp-black.csproj",
+      "projectPath": "/Users/egor/git-actually/helloapp-white/helloapp-black.csproj",
       "packagesPath": "/Users/egor/.nuget/packages/",
-      "outputPath": "/Users/egor/git-actually/helloapp-black/obj/",
+      "outputPath": "/Users/egor/git-actually/helloapp-white/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/egor/.nuget/NuGet/NuGet.Config"
